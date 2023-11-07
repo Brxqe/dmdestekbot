@@ -1,0 +1,14 @@
+token = "" #token
+url = "" # mongo url
+footer = "LEO4BEY 💖" # footer ve oynuyor kısmı - footer and bot activity status
+log_kanal_id = 1113188386375741490 #Başvuru bildirimleri gelicek
+server_id = 1031986596179873822 #Sunucu id'si
+destek_kanal_id = 1150044177875349524 #Destek kanal id'si
+öneri_kanal = 1150044232548094035 #Önerilerin atılacağı kanal id'si
+basvuru_durum_kanal_id = 1114899331057713172 #Başvuru sonuçlarının açıklandığı kanal i'si
+black_list_log = 1149063448207048854 #karaliste log kanal id'si
+admin_rol_id = 1032039663097094204 #yönetici rol idd'si (Başvuruları onaylayıp reddedebilir, üyeleri karalisteye alıp/çıkarabilir)
+yeni_yetkili_rol_id = 1032278585676939264 #Başvurusu onaylanan üyeye verilen rol
+oneri_sure = 7200 # saniye cinsinden 2 saat
+basvuru_sure = 259200 # saniye cinsinden 3 gün
+servernm = "Leo4Bey" # Sunucu adı
